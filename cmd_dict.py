@@ -3,7 +3,7 @@ author: Jason Cheung
 description: A command-line dictionary with word-suggestions from difflib 
              and json data handling from json library
 """
-  
+
 import json
 from difflib import get_close_matches
  
